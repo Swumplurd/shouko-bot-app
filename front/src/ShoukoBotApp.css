@@ -1,0 +1,25 @@
+html *
+{
+    color: #FFFFFF;
+    font-family: Cascadia code, Times, 'Times New Roman', serif;
+}
+
+body {
+    background-image: url('../public/assets/img/wickedbackground.svg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 100vh;
+}
+
+div a {
+    text-decoration: none;
+    color: #ffffff;
+}
+
+div a:hover {
+    color: #4C4C4D;
+}
+
+.main-container {
+    min-height: 100vh;
+}

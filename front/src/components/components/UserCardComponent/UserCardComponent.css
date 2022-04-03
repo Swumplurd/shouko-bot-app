@@ -1,0 +1,25 @@
+.bg-card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #333333;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.75rem;
+}
+
+.avatar-img {
+    border-radius: 100%;
+}
+
+.img-thumbnail-waifu {
+    padding: .25rem;
+    background-color: #dddddd;
+    border: 1px solid #dee2e6;
+    border-radius: .25rem;
+    max-width: 100%;
+    height: 128px;
+    width: 128px;
+}
